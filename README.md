@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning frontend, backend and full stack develpoment
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me amuhammadgandu31@gmail.com, 08067254663
+- 📫 How to reach me amuhammadgandu31@gmail.com, +234 (0) 806 725 4663
 
 <!---
 Abdullahi-Gandu/Abdullahi-Gandu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
